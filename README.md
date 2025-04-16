@@ -1,6 +1,7 @@
 # Disciplinas
-Repositório de Telemática Criado para auxiliar alunos do curso, centralizando conteúdos relevantes para aprendizado. Utilize a seção "Issues" para reportar erros, sugerir melhorias, tirar dúvidas ou compartilhar recursos. Todas as contribuições serão analisadas e aprovadas pela equipe. Mais detalhes em README.
 
+Repositório de Conteúdo para Alunos de Telemática
+Este repositório foi criado com o objetivo de auxiliar os estudantes do curso de Telemática, oferecendo acesso a materiais e informações relevantes para o seu aprendizado. A intenção é centralizar recursos que possam complementar as aulas, facilitar a compreensão de conceitos e promover o estudo colaborativo.
 
 Contribuições e Issues:
 
