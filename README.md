@@ -2,7 +2,7 @@
 
 **Repositório de Conteúdo para Alunos de Telemática**
 
-Este repositório foi criado por alunos da TELEMÁTICA com o objetivo de auxiliar os estudantes do curso de Telemática, oferecendo acesso a materiais e informações relevantes para o seu aprendizado.  
+Este repositório foi criado por alunos da TELEMÁTICA com o objetivo de auxiliar os estudantes do curso, oferecendo acesso a materiais e informações relevantes para o seu aprendizado.  
 A intenção é centralizar recursos que possam complementar as aulas, facilitar a compreensão de conceitos e promover o estudo colaborativo.
 
 ## Contribuições e Issues
